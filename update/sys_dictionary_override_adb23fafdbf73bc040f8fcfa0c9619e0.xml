@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>false</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>false</calculation_override>
+        <default_value>a6827f6fdbf73bc040f8fcfa0c961996</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>false</dependent_override>
+        <display_override>false</display_override>
+        <element>assignment_group</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>false</mandatory_override>
+        <name>x_sthc_realestate_realestate_work_order</name>
+        <read_only>true</read_only>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>false</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-09-16 15:22:03</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>adb23fafdbf73bc040f8fcfa0c9619e0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>assignment_group</sys_name>
+        <sys_package display_value="RealEstate" source="x_sthc_realestate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RealEstate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_scope>
+        <sys_update_name>sys_dictionary_override_adb23fafdbf73bc040f8fcfa0c9619e0</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-09-16 15:24:28</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>

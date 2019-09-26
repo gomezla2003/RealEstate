@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="RealEstate">98cd63ebdb773bc040f8fcfa0c96191a</application>
+        <filter/>
+        <name>RealEstate Work Orders</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_sthc_realestate.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-09-16 15:05:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>82fe2fa7dbb73bc040f8fcfa0c9619b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RealEstate Work Orders</sys_name>
+        <sys_package display_value="RealEstate" source="x_sthc_realestate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RealEstate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_scope>
+        <sys_update_name>sys_ui_module_82fe2fa7dbb73bc040f8fcfa0c9619b4</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-09-16 15:05:34</sys_updated_on>
+        <table>x_sthc_realestate_realestate_work_order</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

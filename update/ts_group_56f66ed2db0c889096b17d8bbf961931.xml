@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ts_group">
+    <ts_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <group/>
+        <name>Real Estate</name>
+        <order>100</order>
+        <roles>x_sthc_realestate.user</roles>
+        <searched>true</searched>
+        <sys_class_name>ts_group</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-09-24 22:54:30</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>56f66ed2db0c889096b17d8bbf961931</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Real Estate</sys_name>
+        <sys_package display_value="RealEstate" source="x_sthc_realestate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RealEstate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_scope>
+        <sys_update_name>ts_group_56f66ed2db0c889096b17d8bbf961931</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-09-24 22:55:25</sys_updated_on>
+        <tables>RealEstate Work Orders</tables>
+    </ts_group>
+</record_update>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_sthc_realestate_realestate_work_order" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deferred</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence/>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-19 20:29:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>dbb51cb8db448c5096b17d8bbf9619dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-19 20:29:18</sys_updated_on>
+            <value>501</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Awaiting CAB</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>0</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>0f31b3a7dbf73bc040f8fcfa0c96198b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:27:51</sys_updated_on>
+            <value>700</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Awaiting Vendor</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>1</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4f31b3a7dbf73bc040f8fcfa0c96198d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:27:53</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Closed Skipped</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>2</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>cb31b3a7dbf73bc040f8fcfa0c96198f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:27:55</sys_updated_on>
+            <value>706</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Waiting Assignment/Not Started</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>4</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>c731b3a7dbf73bc040f8fcfa0c9619aa</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:27:58</sys_updated_on>
+            <value>110</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>5</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>4731b3a7dbf73bc040f8fcfa0c9619ac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:15:28</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>6</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d331b3a7dbf73bc040f8fcfa0c9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:15:28</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>7</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5331b3a7dbf73bc040f8fcfa0c9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:15:28</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Resolved</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>8</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>df31b3a7dbf73bc040f8fcfa0c9619b1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:28:02</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>On Hold</label>
+            <language>en</language>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sequence>9</sequence>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>5f31b3a7dbf73bc040f8fcfa0c9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:15:28</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_sthc_realestate_realestate_work_order</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LGOMEZ</sys_created_by>
+            <sys_created_on>2019-09-16 15:15:28</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>4731b3a7dbf73bc040f8fcfa0c96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="RealEstate" source="x_sthc_realestate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="RealEstate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_scope>
+            <sys_update_name>sys_choice_x_sthc_realestate_realestate_work_order_state</sys_update_name>
+            <sys_updated_by>LGOMEZ</sys_updated_by>
+            <sys_updated_on>2019-09-16 15:15:28</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

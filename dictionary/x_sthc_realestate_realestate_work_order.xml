@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="RealEstate Work Order" max_length="40" name="x_sthc_realestate_realestate_work_order" sizeclass="8" text_index="true" type="collection">
+        <element label="Caller" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone" max_length="40" name="phone" type="string"/>
+    </element>
+</database>

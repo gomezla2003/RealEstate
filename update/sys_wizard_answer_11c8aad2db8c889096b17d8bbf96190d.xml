@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Create a work order for Real Estate</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Create a work order for Real Estate</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Work Orders" name="Work Orders">17f70a19dbe7f3405c77a1ac0b961950</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>LGOMEZ</sys_created_by>
+        <sys_created_on>2019-09-24 23:02:21</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>11c8aad2db8c889096b17d8bbf96190d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Create a work order for Real Estate</sys_name>
+        <sys_package display_value="RealEstate" source="x_sthc_realestate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="RealEstate">9dbde3a7db773bc040f8fcfa0c9619ce</sys_scope>
+        <sys_update_name>sys_wizard_answer_11c8aad2db8c889096b17d8bbf96190d</sys_update_name>
+        <sys_updated_by>LGOMEZ</sys_updated_by>
+        <sys_updated_on>2019-09-24 23:03:07</sys_updated_on>
+        <table/>
+        <target_url>sp?id=sc_cat_item&amp;sys_id=e10ff115db27f3405c77a1ac0b96198b</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
